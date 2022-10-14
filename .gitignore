@@ -32,6 +32,7 @@ ToRT_UA_Foto_Manager_x32\
 ToRT_UA_Foto_Manager_x64\
 Trash\
 Compiled\
+PPF_DATA\
 
 #files
 Ссылки на миниатюрки кды.txt
@@ -40,7 +41,7 @@ Prog_Package_Former.exe
 
 
 # Delphi compiler-generated binaries (safe to delete)
-#*.exe
+*.exe
 *.dll
 *.bpl
 *.bpi
