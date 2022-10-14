@@ -1,0 +1,9 @@
+  system
+  
+  var
+    m: TMethod;//!
+  m.Data := Self;
+  m.Code := MethodAddress(SendL+SendL+'MCL');
+  //TNotifyEvent must by in Published
+  if m.Code<>nil then
+    TNotifyEvent(m)(TempPP.Items[Ni]);//TNotifyEvent(m)(Sender);  Mm,Dd,Yy + MCL}

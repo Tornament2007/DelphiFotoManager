@@ -1,0 +1,22 @@
+[SelectProg]
+SelectProg=Выбор Программы Редактора
+TListBox_LangWL1=Редактировать используя
+TListBox_LangWL2=Установите программу редактор
+TListBox_LangWL3=Без Имени
+TListBox_LangWL4=Выбор Программы ..: ERROR | Слишком много файлов
+TListBox_LangWL5=Выбор Программы ..: ERROR | Не исполнительный Файл
+TListBox_LangWL6=Выбор Программы Редактора
+TListBox_LangWL7=Исполнительные файлы
+TGroupBox_GroupBox4= "Path" and "Name", of the Program
+TLabel_Label2=Перетащите и сбросьте на панель выше, ссылку на "Программу редактор"
+TLabel_Label3=Выбрананая програма будет испльзована как программа редактор фотографий при выборе соответвующей функции.
+TComboBox_PSC_Selector=
+TEdit_PS_Path= Path to the Editor Program
+TEdit_PS_Name= Showed Program Name
+TPanel_Panel1="Тащи | Бросай " Сюда
+TButton_PS_Add=
+TButton_PS_Del=
+TButton_PS_Explore=Explorer
+TButton_SaveA_Bt=Save all
+TButton_Reset1=R
+TButton_Reset2=R

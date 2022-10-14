@@ -1,0 +1,18 @@
+[LookMenu]
+LookMenu=Меню быстрого просмотра
+TPanel_Panel1=
+TListBox_LangWL1=Изображение загружается!
+TListBox_LangWL2=Ошибка во время загрузки изображения!
+TListBox_LangWL3=Немогу загрузить изображение!
+TListBox_LangWL4=Изображение не найдено!!
+TListBox_LangWL5=ОШИБКА
+TPanel_Panel2=
+TPanel_Panel5=
+TPanel_Panel6=
+TPanel_Panel7=
+TPanel_Panel8=
+TPanel_Panel10=
+TMenuItem_window1=Окно
+TMenuItem_SavePositionandSize1=Сохранить позицию и размеры окна
+TMenuItem_Imageloadding1=Загрузчик изображений
+TMenuItem_FastJEPGLoading1=Быстрая загрузка JPEG файлов

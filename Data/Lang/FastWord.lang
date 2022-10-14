@@ -1,0 +1,12 @@
+[FastWord]
+FastWord=Редактор "Словаря"
+TPanel_Editor1=ТЭГ
+TPanel_Editor2=Фотоапарат
+TPanel_Editor3=Автор
+TListBox_ListBox1=Автор
+TEdit_Edit1=Enter tags to be add
+TButton_DeB=Удалить
+TButton_AdB=Добавить
+TButton_EdB=Править
+TListBox_LangWL1=Впишите
+TListBox_LangWL2=для добавления

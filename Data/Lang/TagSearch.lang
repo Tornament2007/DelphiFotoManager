@@ -1,0 +1,26 @@
+[TagSearch]
+TagSearch=Менеджер ТЄГов
+TListBox_TS_LangWL1=Получение списка папок сканирования
+TListBox_TS_LangWL2=Поиск файлов атрибутов
+TListBox_TS_LangWL3=Поиск атрибутов
+TListBox_TS_LangWL4=Поиск атрибутов выполнен за
+TListBox_TS_LangWL5=Сканирую файл: %d/%d
+TListBox_TS_LangWL6=Чего же вы ждете?
+TTabSheet_TabSheet1=Поиск
+TEdit_FindItE=Введите желаемый ТЄГ
+TComboBox_AddToSearchFild=Введите желаемый ТЄГ
+TPanel_Panel1=Total: 0
+TPanel_Panel2=--:--:--.---
+TListBox_ListBox1=--:--:--.---
+TButton_Find=Найти
+TCheckBox_View2_ChB=Грузить Атрибуты
+TCheckBox_View1_ChB=Просмотр
+TTabSheet_TabSheet2=Сканер
+TTabSheet_TabSheet3=Навигатор
+TButton_BTN_Explore=Посмотреть
+TListBox_ListBox2=Посмотреть
+TComboBox_GroupSelector=
+TMenuItem_Open1=Открыть
+TMenuItem_SetthatDate1=Установить эту дату
+TMenuItem_Copy1=Копировать полный путь
+TMenuItem_Copy2=Копировать путь папки

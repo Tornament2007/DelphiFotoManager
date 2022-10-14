@@ -1,0 +1,18 @@
+var
+  F : File;
+  Size : Integer;
+  Data : Pointer;
+begin
+  AssignFile(F, 'myfileblabla.raw');
+  Reset(F, 1);
+  Size := FileSize(F);
+  GetMem(Data, Size);
+  BlockRead(F, Data^, Size);
+  CloseFile(F);
+  
+  glGenTextures(1, @Result);
+  glBindTexture(GL_TEXTURE_2D, Result);
+... // какие-то дополнительные параметры текстуры
+  glTexImage2D(......, Data);
+  FreeMem(Data);
+end;
